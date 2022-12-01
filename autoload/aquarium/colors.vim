@@ -31,7 +31,7 @@ function aquarium#colors#definitions()
           \ 'gui00': "#E6E6F1",
           \ 'gui01': "#D5D4E0",
           \ 'gui02': "#7F8E9D",
-          \ 'gui03': "#CCCBD9",
+          \ 'gui03': "#8E8C96",
           \ 'gui04': "#7F8E9D",
           \ 'gui05': "#708190",
           \ 'gui06': "#9CA6B9",
